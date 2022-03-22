@@ -3,7 +3,7 @@
 /**
  * binary_bst_traverse - function that traverses down the tree keeping track
  * of the narrowing min and max allowed values
- * @tree: a pointer to the node of the root to check
+ * @node: a pointer to the node of the root to check
  * @min: the min value of a node
  * @max: the max value of a node
  * -1 and +1 in the last return is for checkin no duplicate value
@@ -11,12 +11,12 @@
  */
 int binary_bst_traverse(const binary_tree_t *node, int min, int max)
 {
-        if (node == NULL)
-                return (1);
-        if (node->n < min || node->n > max)
-                return (0);
-        return (binary_bst_traverse(node->left, min, node->n - 1) &&
-                binary_bst_traverse(node->right, node->n + 1, max));
+	if (node == NULL)
+		return (1);
+	if (node->n < min || node->n > max)
+		return (0);
+	return (binary_bst_traverse(node->left, min, node->n - 1) &&
+		binary_bst_traverse(node->right, node->n + 1, max));
 }
 
 /**
