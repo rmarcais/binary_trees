@@ -107,7 +107,7 @@ This function is used only for visualization purposes. You don’t have to push 
 <br  />
 
 # Tasks
-## Task 0. New Node.
+## Task 0. [New Node.](https://github.com/rmarcais/binary_trees/blob/main/0-binary_tree_node.c)
 Write a function that creates a binary tree node
 
 
@@ -157,7 +157,7 @@ Write a function that creates a binary tree node
 </details>
 <br  />
 
-## Task 1. Insert Left.
+## Task 1. [Insert Left.](https://github.com/rmarcais/binary_trees/blob/main/1-binary_tree_insert_left.c)
 Write a function that inserts a node as the left-child of another node
 
 
@@ -208,7 +208,7 @@ Write a function that inserts a node as the left-child of another node
 </details>
 <br  />
 
-## Task2. Insert Right.
+## Task2. [Insert Right.](https://github.com/rmarcais/binary_trees/blob/main/2-binary_tree_insert_right.c)
 
 Write a function that inserts a node as the right-child of another node
 
@@ -259,7 +259,7 @@ Write a function that inserts a node as the right-child of another node
 </details>
 <br  />
 
-## Task3. Delete.
+## Task3. [Delete.](https://github.com/rmarcais/binary_trees/blob/main/3-binary_tree_delete.c)
 Write a function that deletes an entire binary tree
 
 
@@ -302,7 +302,7 @@ Write a function that deletes an entire binary tree
 </details>
 <br  />
 
-## Task3. Is leaf.
+## Task3. [Is leaf.](https://github.com/rmarcais/binary_trees/blob/main/4-binary_tree_is_leaf.c)
 Write a function that checks if a node is a leaf
 
 
@@ -353,7 +353,7 @@ Write a function that checks if a node is a leaf
 </details>
 <br  />
 
-## Task4. Is root.
+## Task4. [Is root.](https://github.com/rmarcais/binary_trees/blob/main/5-binary_tree_is_root.c)
 Write a function that checks if a given node is a root
 
 
@@ -407,7 +407,7 @@ Write a function that checks if a given node is a root
 </details>
 <br  />
 
-## Task6. Pre-order traversal.
+## Task6. [Pre-order traversal.](https://github.com/rmarcais/binary_trees/blob/main/5-binary_tree_is_root.c)
 Write a function that goes through a binary tree using pre-order traversal
 
 
@@ -470,7 +470,7 @@ Write a function that goes through a binary tree using pre-order traversal
 </details>
 <br  />
 
-## Task7. In-order traversal.
+## Task7. [In-order traversal.](https://github.com/rmarcais/binary_trees/blob/main/7-binary_tree_inorder.c)
 Write a function that goes through a binary tree using in-order traversal
 
 
@@ -534,7 +534,7 @@ Write a function that goes through a binary tree using in-order traversal
 </details>
 <br  />
 
-## Task8. Post-order traversal.
+## Task8. [Post-order traversal.](https://github.com/rmarcais/binary_trees/blob/main/8-binary_tree_postorder.c)
 Write a function that goes through a binary tree using post-order traversal
 
 
@@ -598,7 +598,7 @@ Write a function that goes through a binary tree using post-order traversal
 </details>
 <br  />
 
-## Task9. Height.
+## Task9. [Height.](https://github.com/rmarcais/binary_trees/blob/main/9-binary_tree_height.c)
 Write a function that measures the height of a binary tree
 
 
@@ -650,7 +650,7 @@ Write a function that measures the height of a binary tree
 </details>
 <br  />
 
-## Task10. Depth.
+## Task10. [Depth.](https://github.com/rmarcais/binary_trees/blob/main/10-binary_tree_depth.c)
 Write a function that measures the depth of a node in a binary tree
 
 
@@ -702,7 +702,7 @@ Write a function that measures the depth of a node in a binary tree
 </details>
 <br  />
 
-## Task11. Size.
+## Task11. [Size.](https://github.com/rmarcais/binary_trees/blob/main/11-binary_tree_size.c)
 Write a function that measures the size of a binary tree
 
 
@@ -754,7 +754,7 @@ Write a function that measures the size of a binary tree
 </details>
 <br  />
 
-## Task12. Leaves.
+## Task12. [Leaves.](https://github.com/rmarcais/binary_trees/blob/main/12-binary_tree_leaves.c)
 Write a function that counts the leaves in a binary tree
 
 
@@ -808,7 +808,7 @@ Write a function that counts the leaves in a binary tree
 </details>
 <br  />
 
-## Task13. Nodes.
+## Task13. [Nodes.](https://github.com/rmarcais/binary_trees/blob/main/13-binary_tree_nodes.c)
 Write a function that counts the nodes with at least 1 child in a binary tree
 
 
@@ -862,7 +862,7 @@ Write a function that counts the nodes with at least 1 child in a binary tree
 </details>
 <br  />
 
-## Task14. Balance factor.
+## Task14. [Balance factor.](https://github.com/rmarcais/binary_trees/blob/main/14-binary_tree_balance.c)
 Write a function that measures the balance factor of a binary tree
 
 
@@ -920,7 +920,7 @@ Write a function that measures the balance factor of a binary tree
 </details>
 <br  />
 
-## Task15. Is full.
+## Task15. [Is full.](https://github.com/rmarcais/binary_trees/blob/main/15-binary_tree_is_full.c)
 Write a function that checks if a binary tree is full
 
 
@@ -973,7 +973,7 @@ Write a function that checks if a binary tree is full
 </details>
 <br  />
 
-## Task16. Is perfect.
+## Task16. [Is perfect.](https://github.com/rmarcais/binary_trees/blob/main/16-binary_tree_is_perfect.c)
 Write a function that checks if a binary tree is perfect
 
 
@@ -1043,7 +1043,7 @@ Write a function that checks if a binary tree is perfect
 </details>
 <br  />
 
-## Task17. Sibling.
+## Task17. [Sibling.](https://github.com/rmarcais/binary_trees/blob/main/17-binary_tree_sibling.c)
 Write a function that finds the sibling of a node
 
 
@@ -1107,7 +1107,7 @@ Write a function that finds the sibling of a node
 </details>
 <br  />
 
-## Task18. Uncle.
+## Task18. [Uncle.](https://github.com/rmarcais/binary_trees/blob/main/18-binary_tree_uncle.c)
 Write a function that finds the uncle of a node
 
 
