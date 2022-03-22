@@ -111,7 +111,7 @@ This function is used only for visualization purposes. You don’t have to push 
 Write a function that creates a binary tree node
 
 
-* Prototype: `binary_tree_t *binary_tree_node(binary_tree_t *`parent`, int `value`);`
+* Prototype: `binary_tree_t *binary_tree_node(binary_tree_t *parent, int value);`
 
 * Where ``parent`` is a pointer to the ``parent`` node of the node to create
 
@@ -199,11 +199,11 @@ Write a function that inserts a node as the left-child of another node
 
 `output`:
 
-  .--(098)--.
-(012)     (402)
+    .--(098)--.
+    (012)     (402)
 
-       .--(098)-------.
-  .--(054)       .--(402)
-(012)          (128)   
+        .--(098)-------.
+    .--(054)       .--(402)
+    (012)          (128)   
 </details>
 <br  />
