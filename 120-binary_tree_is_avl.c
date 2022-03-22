@@ -55,7 +55,7 @@ int binary_avl_traverse(const binary_tree_t *node, int min, int max)
 	left_height = binary_tree_height(node->left);
 	right_height = binary_tree_height(node->right);
 
-	if (abs(left_height - right_height)> 1)
+	if (abs(left_height - right_height) > 1)
 		return (0);
 
 	return (binary_avl_traverse(node->left, min, node->n - 1) &&
