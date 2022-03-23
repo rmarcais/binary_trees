@@ -302,7 +302,7 @@ Write a function that deletes an entire binary tree
 </details>
 <br  />
 
-## Task3. [Is leaf.](https://github.com/rmarcais/binary_trees/blob/main/4-binary_tree_is_leaf.c)
+## Task4. [Is leaf.](https://github.com/rmarcais/binary_trees/blob/main/4-binary_tree_is_leaf.c)
 Write a function that checks if a node is a leaf
 
 
@@ -353,7 +353,7 @@ Write a function that checks if a node is a leaf
 </details>
 <br  />
 
-## Task4. [Is root.](https://github.com/rmarcais/binary_trees/blob/main/5-binary_tree_is_root.c)
+## Task5. [Is root.](https://github.com/rmarcais/binary_trees/blob/main/5-binary_tree_is_root.c)
 Write a function that checks if a given node is a root
 
 
