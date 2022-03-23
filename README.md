@@ -1188,6 +1188,7 @@ If you want to clone the repo to test our work, you can use this command on your
 </a>
 </span>
 </div>
+
 <br/>
 
 <div class="author" style='background-color: #FFFFFF; color: #000000
@@ -1204,7 +1205,9 @@ If you want to clone the repo to test our work, you can use this command on your
 </a>
 </span>
 </div>
+
 <br/>
+
 <div class="author" style='background-color: #DC0932; color: #000000
 ; border-left: solid  #002060 4px; border-radius: 4px; padding:0.7em;'>
 <span>
