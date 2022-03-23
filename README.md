@@ -1167,3 +1167,55 @@ Write a function that finds the uncle of a node
     Uncle of 12: (nil)
 </details>
 <br  />
+
+## Clone the Repo
+
+If you want to clone the repo to test our work, you can use this command on your terminal:
+
+    git clone git@github.com:rmarcais/binary_trees.git
+
+## Authors
+
+<div class="author" style='background-color: #002060; color: #ffffff; border-left: solid  #DC0932 4px; border-radius: 4px; padding:0.7em;'>
+<span>
+<p style='margin-top:1em; text-align:left'>
+<b> Anthony Lacoste </b>
+</p>
+<p style='margin-left:1em;'>
+<a href="https://github.com/Anthony-6"> <img src="images/github_logo_icon_143772.png" alt="git" width="50"/>
+<a href="https://www.linkedin.com/in/anthonylacoste-dev/"> <img src="images/Linkedin-logo-Transparent-Image-1024x1024.png" alt="linkedin" width="50"/>
+</p>
+</a>
+</span>
+</div>
+
+<br/>
+
+<div class="author" style='background-color: white; color: #000000
+; border-left: solid  #30251F 4px; border-radius: 4px; padding:0.7em;'>
+<span>
+<p style='margin-top:1em; text-align:left'>
+<b> Rémi Marçais </b>
+</p>
+<p style='margin-left:1em;'>
+<a href="https://github.com/rmarcais"> <img src="images/github_logo_icon_143772.png" alt="git" width="50"/>
+</a>
+<a href="https://www.linkedin.com/in/elodieriou-dev/"> <img src="images/Linkedin-logo-Transparent-Image-1024x1024.png" alt="linkedin" width="50"/>
+</p>
+</a>
+</span>
+</div>
+
+<br/>
+<div class="author" style='background-color: #DC0932; color: #000000
+; border-left: solid  #002060 4px; border-radius: 4px; padding:0.7em;'>
+<span>
+<p style='margin-top:1em; text-align:left'>
+<b> Elodie Riou </b>
+</p>
+<p style='margin-left:1em;'>
+<a href="https://github.com/rmarcais"> <img src="images/github_logo_icon_143772.png" alt="git" width="50"/>
+<a href="https://www.linkedin.com/in/r%C3%A9mi-mar%C3%A7ais-274a4421a/"> <img src="images/Linkedin-logo-Transparent-Image-1024x1024.png" alt="linkedin" width="50"/>
+</p>
+</span>
+</div>
